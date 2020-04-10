@@ -7,3 +7,4 @@
 1. [JavaScript DOM Tutorial- English](https://github.com/Ninna994/docs/wiki/JavaScript-DOM)
 1. [JavaScript Basics tutorial- English](https://github.com/Ninna994/docs/wiki/JavaScript-Basics)
 1. [Advanced CSS- English](https://github.com/Ninna994/docs/wiki/Advanced-CSS)
+1. [Linux commands](https://github.com/Ninna994/docs/wiki/Linux-commands)
