@@ -9,3 +9,4 @@
 1. [Advanced CSS- English](https://github.com/Ninna994/docs/wiki/Advanced-CSS)
 1. [Python basics](https://github.com/Ninna994/docs/wiki/Python-basics)
 1. [Linux commands](https://github.com/Ninna994/docs/wiki/Linux-commands)
+1. [Cypress](https://github.com/Ninna994/docs/wiki/Cypress)
