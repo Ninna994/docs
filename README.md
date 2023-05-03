@@ -11,3 +11,4 @@
 1. [Linux commands](https://github.com/Ninna994/docs/wiki/Linux-commands)
 1. [Cypress](https://github.com/Ninna994/docs/wiki/Cypress)
 1. [Selenium](https://github.com/Ninna994/docs/wiki/Selenium---tutorial)
+1. [SQL](https://github.com/Ninna994/docs/wiki/SQL)
