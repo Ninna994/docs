@@ -12,3 +12,6 @@
 1. [Cypress](https://github.com/Ninna994/docs/wiki/Cypress)
 1. [Selenium](https://github.com/Ninna994/docs/wiki/Selenium---tutorial)
 1. [SQL](https://github.com/Ninna994/docs/wiki/SQL)
+2. [API Basics](https://github.com/Ninna994/docs/wiki/API_Basics)
+3. [Postman](https://github.com/Ninna994/docs/wiki/Postman)
+4. [API Comparisons](https://github.com/Ninna994/docs/wiki/API-Comparisons)
