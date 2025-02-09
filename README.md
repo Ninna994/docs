@@ -15,3 +15,5 @@
 2. [API Basics](https://github.com/Ninna994/docs/wiki/API_Basics)
 3. [Postman](https://github.com/Ninna994/docs/wiki/Postman)
 4. [API Comparisons](https://github.com/Ninna994/docs/wiki/API-Comparisons)
+5. [JS Basics Postman](https://github.com/Ninna994/docs/wiki/JS-Basics-Postman)
+6. [Scripts Postman](https://github.com/Ninna994/docs/wiki/Scripts-Postman)
